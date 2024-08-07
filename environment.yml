@@ -1,0 +1,14 @@
+name: FRS
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch
+  - pytorch-cuda=12.1
+  - torchaudio
+  - torchvision
+  - dgl
+  - pytorch-sparse
+  - ipykernel
+  - pyg
+prefix: /home/zheyuanzhang/anaconda3/envs/FRS
